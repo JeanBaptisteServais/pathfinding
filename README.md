@@ -9,6 +9,6 @@ For example gps or searching a store
 
 
 
-      A* path finding and search points doesn't give the minimal distance, it just search a point
+      (my) A* path finding and search points doesn't give the minimal distance, it just search a point 
 
       dijkstra give the minimal distance
