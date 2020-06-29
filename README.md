@@ -13,8 +13,18 @@ For example gps or searching a store
 
       dijkstra give the minimal distance
            
+           
+<h1>Search point</h1>
 ![search](https://user-images.githubusercontent.com/54853371/86051825-5426bc80-ba56-11ea-8e3a-cc5a7c44de5d.gif)
+
+<br><br><br>
+
+<h1>A* pathfinding</h1>
+
 ![astart](https://user-images.githubusercontent.com/54853371/86051857-630d6f00-ba56-11ea-814d-6d76cd8c476a.gif)
+
+
+<h1>DijStra</h1>
 ![dickstra](https://user-images.githubusercontent.com/54853371/86051896-77ea0280-ba56-11ea-81bd-3db722ededd7.gif)
 
 
